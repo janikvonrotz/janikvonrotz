@@ -1,5 +1,4 @@
-![janikvonrotz's Stats](https://github-readme-stats.vercel.app/api?username=janikvonrotz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![janikvonrotz's GitHub stats](https://github-readme-stats.vercel.app/api?username=janikvonrotz&theme=dark)
 
-![janikvonrotz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=janikvonrotz&theme=vue-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janikvonrotz&theme=dark)
 
-![janikvonrotz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janikvonrotz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
